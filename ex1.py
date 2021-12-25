@@ -1,4 +1,4 @@
-"Hello World!"
+print("Hello World!")
 "Hello Again"
 "I like typing this"
 "This is not fun."
