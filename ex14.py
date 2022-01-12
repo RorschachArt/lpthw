@@ -11,6 +11,9 @@ likes = input(prompt)
 print("Where do you live {user_name}?")
 lives = input(prompt)
 
+print(f"How old are you {user_name}?")
+age = input(prompt)
+
 print(f"What kind of computer do you have?")
 computer = input(prompt)
 
